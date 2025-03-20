@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">Passionate and proactive Frontend Developer with extensive experience in designing and developing web
-applications using modern technologies such as React, Vue, and TypeScript. I have a strong background in
-creating user-friendly interfaces, optimizing performance, and ensuring seamless user experiences. Always
-eager to learn and adapt to new challenges, I thrive in fast-paced environments that encourage innovation
-and collaboration. I am seeking an opportunity to grow professionally, contribute my expertise to
-impactful projects, and be part of a team that values creativity and technical excellence.</h3>
+<h3 align="left" style="color:red">Passionate and proactive Frontend Developer with extensive experience in designing and developing web applications using modern technologies such as React, Vue, and TypeScript. I excel at creating user-friendly interfaces, optimizing performance, and ensuring seamless user experiences. I have strong problem-solving abilities, effective communication skills, and adaptability, which allow me to thrive in fast-paced, agile environments. I enjoy working collaboratively, embracing new challenges, and continuously expanding my technical knowledge to stay up to date with the latest industry trends.</h3>
 
 
 
